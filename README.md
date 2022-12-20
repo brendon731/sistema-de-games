@@ -1,8 +1,9 @@
-#Sistema de games
+# Sistema de games
 
-Status do projeto: Em desenvolvimento
+>Status do projeto: Em desenvolvimento
 
 Para rodar esse projeto na sua máquina, por favor digite
-'''
+```
 npm run start
-'''
+
+```
